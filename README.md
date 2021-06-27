@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img align="right" height="330px" alt="GIF" src="https://raw.githubusercontent.com/jagwithyou/jagwithyou/main/code.gif" />
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jagwithyou/jagwithyou/main/code.gif" />
 
 ### I am a Senior Software Engineer at Sulopa
 - 🔭 I’m currently prepairing materials to crack interview :grin:
